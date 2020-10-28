@@ -1,0 +1,7 @@
+Write two scripts (.M file) to generate the two drawings below: 
+	1) batman
+	2) traffic light using (for loop)
+	
+	Uploaded files:
+	1) script files .m 
+	2) screen shot of the output 

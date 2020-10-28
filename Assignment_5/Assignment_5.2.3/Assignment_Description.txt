@@ -1,0 +1,2 @@
+Using Simulink
+    2.3 - Design a system that blink LED on Arduino with duty cycle 25 % signal should be viewed on scope.

@@ -1,0 +1,10 @@
+You will need the following hardware for this exercise:
+	- Arduino.
+	- Bread board.
+	- potentiometer.
+	- Connecting jumper wires.
+
+Steps: 
+	- Write a matlab code to specify a usb port for arduino and connect it with the laptop/pc.
+	- Connect a potentiometer to a pin in arduino and begin reading the change in analog voltage.
+	- Display the change in voltage on a graph. (check the video).

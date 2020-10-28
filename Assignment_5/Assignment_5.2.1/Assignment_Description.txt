@@ -1,0 +1,6 @@
+Using Simulink
+    2.1 - Design a system that contain a Matlab function which accept sin wave and constant then return 3 values 
+        * first value is sin added to input constant 
+        * second value sin multiplied by input constant  
+        * third value [first value - sin  values ]
+        "all outputs and inputs should be displayed on scope"

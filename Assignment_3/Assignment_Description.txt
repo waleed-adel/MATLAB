@@ -1,0 +1,9 @@
+Generate a Calculator Application (.exe) with GUI using Matlab  
+	1) The Calculator App can do basic arthemtic operations like:
+			- Add       (+).
+			- Subtract  (-).
+			- Multiply  (*).
+			- Divide    (/).
+	2) The GUI will display change between two pictures based on the value of the result
+			- result >= 100 --> display picture of smiley dog.
+			- result < 100  --> display picture of crying cat.

@@ -1,0 +1,6 @@
+write a function that can call 3 functions according to user choice 
+the 3 functions are :
+	1) draw_bat
+	2) Traffic
+	3) calc
+	program should ask user if he/she wants to continue or terminate progrom.

@@ -1,0 +1,3 @@
+Using Simulink
+      2.4 -  Design a UI that control amplitude of sin wave on simulink and view that change on scope.
+             " hence: that change is between 1 to 5 "

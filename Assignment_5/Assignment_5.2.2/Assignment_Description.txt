@@ -1,0 +1,3 @@
+Using Simulink
+    2.2 - Design a system that perform logical operations (and , not, or) only if constant values is equal to 1
+					else system should generate square wave and view it on scope.

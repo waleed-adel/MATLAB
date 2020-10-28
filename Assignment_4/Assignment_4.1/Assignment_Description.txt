@@ -1,0 +1,9 @@
+Use Matlab coder to generate a C code.
+	- The following generated code takes 4 inputs from the user and fill an array.
+	- Then it prints on the screen the maximum and minimum value on seperate lines.
+	
+The Deliverables:
+	- c code generated.
+	- gcc command format.
+	- screen shot of edited files "lines of code".
+	- exe file and screen shot to output console.

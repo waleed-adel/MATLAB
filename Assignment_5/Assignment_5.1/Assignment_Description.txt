@@ -1,0 +1,4 @@
+State flow diagram for:
+    1) Traffic light and car/driver response (check the output and system screenshots). 
+    - Generate C code for the chart.
+    2) Logic representation for random ball movement between 4 boundaries (check the output and system screenshots).
